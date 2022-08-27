@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Rubik+Glitch&display=swap");
 
-/***  VARIÁVEIS E TEMAS ***/
+/***  VARIÁVEIS CSS E TEMAS ***/
 
 :root {
   --primary-color: #cf0f0f;
@@ -275,7 +275,7 @@ section {
   border-image-slice: 10;
 }
 
-/* Seção 03 - Stranger Things Gallery */
+/* Seção 03 - Galeria de Stranger Things  */
 
 #section-stranger-things-gallery {
   width: 100%;
