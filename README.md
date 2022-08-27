@@ -5,7 +5,7 @@
 -------
 Projeto Front-End desenvolvendo conceitos de site com responsabilidade e integração de elementos de interatividade, praticando HTML, CSS, & Javascript, aprendidos na Semana Front-End da Digital Innovation One, onde o tema foi a série Stranger Things.
 
-## 💻 Tecnologias
+## 💻 Tecnologias utilizadas
 - HTML
 - CSS
 - JavaScript
@@ -17,12 +17,14 @@ Projeto Front-End desenvolvendo conceitos de site com responsabilidade e integra
     - Acessibilidade
     - Web Scraping
     - SEO
+    
 - CSS
     - Posicionamentos
     - Pseudo-elementos
     - Pseudo-classes
     - Flexbox
     - Animações 
+
 - JavaScript
     - Introdução ao JavaScript
     - Manipulação do DOM
