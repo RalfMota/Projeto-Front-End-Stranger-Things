@@ -17,7 +17,7 @@ Projeto Front-End desenvolvendo conceitos de site com responsabilidade e integra
     - Acessibilidade
     - Web Scraping
     - SEO
-    
+
 - CSS
     - Posicionamentos
     - Pseudo-elementos
@@ -32,4 +32,4 @@ Projeto Front-End desenvolvendo conceitos de site com responsabilidade e integra
     - Integração com o Firebase
 
 </p>
-Footer
+
